@@ -1,5 +1,5 @@
 # GeronGnosis
-This dataset contains the EEG resting state-closed eyes recordings from 50 subjects in total, modeled as explicit features.
+This dataset contains the EEG resting state-closed eyes recordings from 50 subjects in total, modeled as explicit features, in a compressed Weka ARFF file.
 
 Participants: 15 of them were diagnosed with Alzheimer's disease (AD group), 5 were diagnosed with Frontotemporal Dementia (FTD group),
 10 were diagnosed with Mild Cognitive Impairment (MCI) and 20 were healthy subjects (CN group). 
